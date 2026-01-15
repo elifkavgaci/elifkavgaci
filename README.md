@@ -1,3 +1,3 @@
-- 👋Hi, I'm Elif Kavgacı
+- 👋 Hi, I'm Elif Kavgacı
 - 🌱 I’m student at Bilkent University and my department is CS
 - 📫 How to reach me: elif.kavgaci@ug.bilkent.edu.tr
